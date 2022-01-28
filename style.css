@@ -1,0 +1,43 @@
+.heading
+{
+
+font-size: 23px;
+width: 100%;
+margin: 0px;
+
+}
+
+.note
+{
+
+font-size: 15px;
+color: black;
+
+}
+body
+{
+
+    background-size: cover;
+
+}
+
+#img {
+
+    float: left;
+    width: 50px;
+    height: 50px;
+
+}
+#img2 {
+
+float: center;
+width: 100px;
+height: 100px;
+
+}
+
+.div_song_name
+{
+float: bottom;
+
+}
